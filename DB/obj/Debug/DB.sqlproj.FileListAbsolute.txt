@@ -1,0 +1,10 @@
+C:\Users\Cristi\source\repos\Forum\DB\bin\Debug\DB.dacpac
+C:\Users\Cristi\source\repos\Forum\DB\bin\Debug\DB.dll
+C:\Users\Cristi\source\repos\Forum\DB\bin\Debug\DB.pdb
+C:\Users\Cristi\source\repos\Forum\DB\obj\Debug\DB.sqlprojAssemblyReference.cache
+C:\Users\Cristi\source\repos\Forum\DB\obj\Debug\Model.xml
+C:\Users\Cristi\source\repos\Forum\DB\obj\Debug\refactor.xml
+C:\Users\Cristi\source\repos\Forum\DB\obj\Debug\postdeploy.sql
+C:\Users\Cristi\source\repos\Forum\DB\obj\Debug\predeploy.sql
+C:\Users\Cristi\source\repos\Forum\DB\obj\Debug\DB.dll
+C:\Users\Cristi\source\repos\Forum\DB\obj\Debug\DB.pdb
